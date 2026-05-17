@@ -61,7 +61,7 @@
               pkgs.go
               pkgs.gopls
               pkgs.gofumpt
-              pkgs.gotools
+              (nixpkgs.lib.lowPrio pkgs.gotools)
               pkgs.pgformatter
               pkgs.atlas
             ];
