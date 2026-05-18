@@ -57,6 +57,7 @@
               
               # Dev
               pkgs.mise
+              pkgs.podman
               pkgs.gcc
               pkgs.nodejs
               pkgs.rustup
