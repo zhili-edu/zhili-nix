@@ -52,6 +52,8 @@
 
               pkgs.gh
               pkgs.ossutil
+
+              pkgs.tailscale
               
               # Dev
               pkgs.mise
