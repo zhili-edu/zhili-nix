@@ -31,6 +31,7 @@
             paths = [
               pkgs.fish
               pkgs.git
+              pkgs.gnumake
 
               pkgs.vim
               pkgs.neovim
