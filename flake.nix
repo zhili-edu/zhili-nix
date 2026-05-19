@@ -50,6 +50,7 @@
               pkgs.q
               pkgs.age
               pkgs.rage
+              pkgs.tree
 
               pkgs.gh
               pkgs.ossutil
