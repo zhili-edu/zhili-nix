@@ -68,6 +68,7 @@
               (nixpkgs.lib.lowPrio pkgs.gotools)
               pkgs.pgformatter
               pkgs.atlas
+              pkgs.typescript-language-server
             ];
 
             meta = {
