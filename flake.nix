@@ -56,8 +56,6 @@
               pkgs.ossutil
 
               pkgs.tailscale
-              # for codex sandbox
-              pkgs.bubblewrap
               
               # Dev
               pkgs.mise
