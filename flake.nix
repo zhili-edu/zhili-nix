@@ -64,7 +64,6 @@
               pkgs.go
               pkgs.gopls
               pkgs.gofumpt
-              pkgs.rust-analyzer
               (nixpkgs.lib.lowPrio pkgs.gotools)
               pkgs.pgformatter
               pkgs.atlas
