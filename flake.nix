@@ -61,7 +61,6 @@
               pkgs.mise
               pkgs.gcc
               pkgs.nodejs
-              pkgs.rustup
               pkgs.go
               pkgs.gopls
               pkgs.gofumpt
