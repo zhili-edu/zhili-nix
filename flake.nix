@@ -51,6 +51,7 @@
               pkgs.age
               pkgs.rage
               pkgs.tree
+              pkgs.cloc
 
               pkgs.gh
               pkgs.ossutil
