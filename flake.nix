@@ -57,6 +57,7 @@
               pkgs.ossutil
 
               pkgs.tailscale
+              pkgs.ansible
               
               # Dev
               pkgs.mise
